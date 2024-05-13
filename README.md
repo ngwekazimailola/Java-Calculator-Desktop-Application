@@ -1,7 +1,5 @@
 # Java-Calculator-Desktop-Application
 
-# Arithmetic Calculator Application
-
 This Java Swing application is a basic calculator designed to help people perform arithmetic calculations quickly without relying on external tools.
 
 ## Features
